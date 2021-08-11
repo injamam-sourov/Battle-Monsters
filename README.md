@@ -1,2 +1,2 @@
 # Battle-Monsters
-A simple console-based battle game written using inheritance in Java
+A simple console-based battle scenario between a hero and monsters written using OOP principles in Java.
